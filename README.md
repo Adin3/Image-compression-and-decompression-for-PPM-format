@@ -37,8 +37,8 @@
 
 Image at 0 compression level
 
-![initial image](test.pmm)
+[initial image](https://imgur.com/pUtS0sf)
 
 Image at 500 compression level
 
-![image after compression](test_d.ppm)
+[image after compression](https://imgur.com/YAm1cw9)
