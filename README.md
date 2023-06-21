@@ -5,15 +5,15 @@
  compresses and decompresses the image by storing the pixel's colors in a quad tree
 
  At this moment, the program can:
- - Verify the image
+ - Check the image
  - Compress the image
  - Decompress the image
 
-## Verify
+## Check
  Takes the image and outputs some info about said image:
   - How many levels the quad tree has
   - The number of zone that can be compressed
-  - The dimension of the biggest zone
+  - The size of the biggest zone
 
  Command
  
