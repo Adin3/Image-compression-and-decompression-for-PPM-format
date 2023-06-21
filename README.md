@@ -35,6 +35,7 @@
 
 # Restrictions
 -Only works for PPM P6 images
+
 -The image dimensions can only be NxN, where N is a power of 2
 
 # Exemple
