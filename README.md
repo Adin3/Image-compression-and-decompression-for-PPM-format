@@ -37,8 +37,8 @@
 
 Image at 0 compression level
 
-![](https://imgur.com/pUtS0sf)
+![initial image](https://i.imgur.com/pUtS0sf.png)
 
 Image at 500 compression level
 
-![](https://imgur.com/YAm1cw9)
+![image after compression](https://i.imgur.com/YAm1cw9.png)
