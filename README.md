@@ -33,6 +33,10 @@
 
  `./quadtree -d [compress_file] [new_ppm_image_name]`
 
+# Restrictions
+-Only works for PPM P6 images
+-The image dimensions can only be NxN, where N is a power of 2
+
 # Exemple
 
 Image at 0 compression level
